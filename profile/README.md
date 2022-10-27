@@ -13,3 +13,8 @@ Our growing hardware stack comprises software for controlling two ABB IRB120 6DO
 H. Dinkel, J. Xiang, H. Zhao, B. Coltin, T. Smith, and T. Bretl (2022) "Wire Point Cloud Instance Segmentation from RGBD Imagery with Mask R-CNN", ICRA Workshop on Deformable Objects. Access <a href="https://deformable-workshop.github.io/icra2022/spotlight/WDOICRA2022_08.pdf">here</a>.
 <h3 align="left"> Funding Acknowledgment </h3>
 This work is supported through NASA Space Technology Graduate Research Opportunity award 80NSSC21K1292, U.S. Department of Education Graduate Assistance in Areas of National award P200A180050-19, Illinois Space Grant Consortium Undergraduate Research Opportunity Program, UIUC Promoting Undergraduate Research in Engineering, UIUC Office of Undergraduate Researcher, and the UIUC Department of Aerospace Engineering. 
+</p>
+<hr>
+ <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=RMDLO" alt="https://github.com/RMDLO" />
+</p>
