@@ -14,7 +14,6 @@ H. Dinkel, J. Xiang, H. Zhao, B. Coltin, T. Smith, and T. Bretl (2022) "Wire Poi
 <h3 align="left"> Funding Acknowledgment </h3>
 This work is supported through NASA Space Technology Graduate Research Opportunity award 80NSSC21K1292, U.S. Department of Education Graduate Assistance in Areas of National award P200A180050-19, Illinois Space Grant Consortium Undergraduate Research Opportunity Program, UIUC Promoting Undergraduate Research in Engineering, UIUC Office of Undergraduate Researcher, and the UIUC Department of Aerospace Engineering. 
 </p>
-<hr>
- <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=RMDLO" alt="https://github.com/RMDLO" />
+ <br>
+ <img src="https://komarev.com/ghpvc/?username=RMDLO" alt="https://github.com/RMDLO" />
 </p>
