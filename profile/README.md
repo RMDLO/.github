@@ -7,7 +7,7 @@
 <h3 align="left"> Introduction </h3>
 This is the GitHub organization home page for the Representing and Manipulating Deformable Linear Objects (RMDLO) project from the <a href="https://bretl.csl.illinois.edu">Bretl Research Group</a> at the University of Illinois at Urbana-Champaign (UIUC). The project studies robotic manipulation, grasp planning, tactile sensing, segmentation, simulation, and tracking of wires and ropes.
 <br/><br/>
-Our growing hardware stack comprises software for controlling two ABB IRB120 6DOF robotic manipulators, the Rethink Robotics Sawyer 7DOF manipulator, the OnRobot 2FG7 gripper, the Intel RealSense d435 camera, the ZED Mini camera, and the DIGIT tactile sensor. For any project-related inquiries or requests, please contact  <a href="hdinkel2@illinois.edu">Holly Dinkel</a>.
+Our growing hardware stack comprises software for controlling two ABB IRB120 6DOF robotic manipulators, the Rethink Robotics Sawyer 7DOF manipulator, the OnRobot 2FG7 gripper, the Intel RealSense d435 camera, the ZED Mini camera, and the DIGIT tactile sensor. For any project-related inquiries or requests, please contact Holly Dinkel [hdinkel2@illinois.edu].
 <br/><br/>
 <h3 align="left"> References </h3>
 H. Dinkel, J. Xiang, H. Zhao, B. Coltin, T. Smith, and T. Bretl (2022) "Wire Point Cloud Instance Segmentation from RGBD Imagery with Mask R-CNN", ICRA Workshop on Deformable Objects. <a href="https://deformable-workshop.github.io/icra2022/spotlight/WDOICRA2022_08.pdf">[Access]</a>
