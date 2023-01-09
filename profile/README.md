@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/RMDLO/.github/blob/master/images/wires.png" alt="banner" width="1000px"/>
+  <img src="https://github.com/RMDLO/.github/blob/master/images/rmdlo_logo.png" alt="banner" width="1000px"/>
 </div>
 <br>
 <h2 align="center"> Representing and Manipulating Deformable Linear Objects </h2>
