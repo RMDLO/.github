@@ -5,13 +5,13 @@
 <br>
 <h2 align="center"> Representing and Manipulating Deformable Linear Objects </h2>
 <h3 align="left"> Introduction </h3>
-This is the GitHub organization home page for the Representing and Manipulating Deformable Linear Objects (RMDLO) project from the <a href="https://bretl.csl.illinois.edu">Bretl Research Group</a> at the University of Illinois at Urbana-Champaign (UIUC). The project studies robotic manipulation, grasp planning, tactile sensing, segmentation, simulation, and tracking of wires and ropes.
+This is the GitHub organization home page for the Representing and Manipulating Deformable Linear Objects (RMDLO) project from the University of Illinois at Urbana-Champaign (UIUC). The project studies robotic manipulation, grasp planning, tactile sensing, segmentation, simulation, and tracking of wires and ropes.
 <br/><br/>
-Our growing hardware stack comprises software for controlling two ABB IRB120 6DOF robotic manipulators, the Rethink Robotics Sawyer 7DOF manipulator, the OnRobot 2FG7 gripper, the Intel RealSense d435 camera, the ZED Mini camera, and the DIGIT tactile sensor. For any project-related inquiries or requests, please contact <a href="https://hollydinkel.github.io/">Holly Dinkel</a> [hdinkel2@illinois.edu].
+Our growing software stack includes code for controlling two ABB IRB120 6DOF robotic manipulators, the OnRobot 2FG7 gripper, the Intel RealSense d435 camera, the Luxonis Oak-D Pro camera, and the DIGIT tactile sensor. For any project-related inquiries or requests, please contact <a href="https://hollydinkel.github.io/">Holly Dinkel</a> [hdinkel2@illinois.edu].
 <br/><br/>
 
 <h3 align="left"> Collaborators </h3>
-Hameed Abdul-Rashid, Timothy Bretl, Brian Coltin, Holly Dinkel, Achintya Gahalaut, Naixiang (Gabe) Gao, Zikun (Tony) Liu, Raghavendra (Raghav) Navaratna, Florian Pokorny, Bhumsitt Pramuanpornsatid, Yash Rathod, Fuad Samhouri, Trey Smith, Jingyi Xiang, Muhammad Zahid, Harry Zhao
+Hameed Abdul-Rashid, Mårten Björkman, Marcel Büsching, Timothy Bretl, Brian Coltin, Holly Dinkel, Achintya Gahalaut, Naixiang (Gabe) Gao, Jagriti Jain, Danica Kragic, Alberta Longhini, Zikun (Tony) Liu, Raghavendra (Raghav) Navaratna, Florian Pokorny, Bhumsitt (Bose) Pramuanpornsatid, Yash Rathod, Fuad Samhouri, Trey Smith, Minh Quang Ta, Jingyi Xiang, Dan Yang, Muhammad Zahid, Harry Zhao
 
 <h3 align="left"> References </h3>
 
